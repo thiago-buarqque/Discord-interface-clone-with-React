@@ -114,6 +114,12 @@ export const UserName = styled.span`
     font-size:14px;
     font-weight: bold;
 
+    max-width: 80%;
+
+    white-space: nowrap;
+    text-overflow: ellipsis;
+    overflow: hidden;
+
 `
 export const UserStatus = styled.span`
     color: #9d9d9e;
