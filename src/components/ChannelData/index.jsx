@@ -26,7 +26,7 @@ export default class ChannelData extends React.Component{
                 {messageUserName: 'Alex', messageThumb: false, messageContent: 'Some stuff to full the chat, Some stuff to full the chat', isMention: false},
                 {messageUserName: 'Alex', messageThumb: false, messageContent: 'Some stuff to full the chat', isMention: false},
                 {isNewMember: true, newMemberAnnouncement: 'Everyone welcome, ', newMemberName: 'Villager John', isMention: false},
-                {isNewMember: true, newMemberAnnouncement: 'Looks, who is here. It\'s,', newMemberName: 'Villager Lilly', isMention: false},
+                {isNewMember: true, newMemberAnnouncement: 'Look who is here. It\'s,', newMemberName: 'Villager Lilly', isMention: false},
                 {messageUserName: 'Steve', messageThumb: true, userPic: user1Pic, messageContent: 'Some stuff to full the chat', isMention: false},
                 {messageUserName: 'Steve', messageThumb: false, messageContent: 'Some stuff to full the chat, full the chat', isMention: false},
                 {messageUserName: 'Steve', messageThumb: false, messageContent: 'Some stuff to full the chat', isMention: false},
