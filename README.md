@@ -1,14 +1,39 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Getting Started
-In the project directory, you can run:
 
-## npm install
-install the dependencies
+# Spotify clone interface (English Version)
+This project is a clone of Discord's (web) interface.
 
-## npm start
-Runs the app in the development mode.
-Open http://localhost:3000 to view it in the browser.
+ **Legal information:** 
 
-The page will reload if you make edits.
-You will also see any lint errors in the console.
+  -  **This project is not for profit, just for learning.** 
+
+## Learning
+This project aimed to start my career at ReactJS. The objective was achieved and the learning acquired.
+
+## Tools
+
+  - HTML5
+  - JavaScript
+  - ReactJS
+  - Styled-components
+  - Styled-icons
+
+# Spotify interface clone (Versão em Português)
+Este projeto é um clone da interface (web) do Discord.
+
+**Informações legais:**
+
+ - **Este projeto não possui fins lucrativos, apenas de aprendizado.**
+
+## Aprendizado
+Este projeto teve como objetivo iniciar minha carreira no ReactJS. O objetivo foi alcançado e o aprendizado adquirido.
+
+## Ferramentas
+
+ - HTML5
+ - JavaScript
+ - ReactJS
+ - Styled-components
+ - Styled-icons
+
+> ReadMe file written with [StackEdit](https://stackedit.io/).
